@@ -1,6 +1,8 @@
 # System Overview
 **O FILA** coordinates the entire service process from ticket issuance to service completion, ensuring that customers are directed to the appropriate service counters while maintaining priority rules and waiting time standards. The system focuses on four core entities:
 
+<img src="./public/Diagram.svg" alt="Diagrama do Sistema O FILA" style="width: 100%; height: 458px;" />
+
   - **Tickets (Senha)**: Digital or physical tokens issued to customers upon arrival, containing information about their service category, issue time, and priority level.
   
   - **Categories (Categoria)**: Service types that determine ticket priorities, maximum waiting times, and special handling requirements (such as preferential treatment for elderly, disabled, or other priority groups).
